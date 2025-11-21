@@ -19,8 +19,13 @@
 
 
 *Источники* (Актуальны на 21.11.2025)
+
 https://www.kaspersky.ru/resource-center/definitions/what-is-a-vpn
+
 https://habr.com/ru/companies/xeovo/articles/746446/
+
 https://vpngid.com/articles/are-free-vpn-safe
+
 https://p-relations.ru/besplatnye-vpn-podvodnye-kamni-i-realnye-ugrozy/
+
 https://www.theregister.com/2020/07/17/ufo_vpn_database/
